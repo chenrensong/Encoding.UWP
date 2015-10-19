@@ -2,7 +2,7 @@
 
 _This project is based on https://github.com/Aimeast/Encoding4Silverlight_
 
-**This contains GB2312、BIG5 Encoding.**
+**This project contains GB2312、BIG5 Encoding.**
 
 This project is fully implemented all Encoding functions therefore you can use this project as easy as .Net Framework built-in encoding. In order to use the project, you must embed an addition binary data files into your assembly. Following features have been implemented:
 
